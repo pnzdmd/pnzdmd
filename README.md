@@ -25,5 +25,6 @@
     <a href="https://www.postman.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/86494748/158792069-56bb7fa3-5612-494f-82c1-7f30a5b9ba01.png" alt="Postman" style="max-width: 100%;"></a></p>
   
   <h3>Моя статистика:</h3>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnzdmd)](https://github.com/pnzdmd/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnzdmd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnzdmd)](https://github.com/pnzdmd/github-readme-stats)
