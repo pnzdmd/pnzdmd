@@ -17,3 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnzdmd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnzdmd)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/389c4455a539e5a326d07421716c6b12b17fbb9d760b2a81723593a9006bbd4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69612d73746570616e6f76266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/389c4455a539e5a326d07421716c6b12b17fbb9d760b2a81723593a9006bbd4c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69612d73746570616e6f76266c61796f75743d636f6d70616374" height="140px" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnzdmd&amp;layout=compact" style="max-width: 100%;"></a>
+
