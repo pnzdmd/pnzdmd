@@ -11,9 +11,9 @@
   <div align="center">
     <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   </div>
-  :cowboy_hat_face: Обо мне:
+  
 
-  🛠 Языки и Инструменты:
+  🛠 Владею Языками и Инструментами:
   <p dir="auto" align="center">
     <a href="https://git-scm.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/86494748/128634186-d1b69fc3-322b-4344-89d0-615670eaaa93.png"   alt="Git" style="max-width: 100%;"></a>
     <a href="https://html5book.ru/html-html5/" rel="nofollow"><img src="https://user-images.githubusercontent.com/86494748/128634189-e6ded326-aeb9-4f8d-8508-f0fcd7f1d891.png" alt="HTML5" style="max-width: 100%;"></a>
@@ -25,6 +25,5 @@
     <a href="https://www.postman.com/" rel="nofollow"><img src="https://user-images.githubusercontent.com/86494748/158792069-56bb7fa3-5612-494f-82c1-7f30a5b9ba01.png" alt="Postman" style="max-width: 100%;"></a></p>
   
   <h3>Моя статистика:</h3>
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnzdmd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pnzdmd)](https://github.com/pnzdmd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pnzdmd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
